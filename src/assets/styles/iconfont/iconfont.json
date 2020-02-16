@@ -1,0 +1,30 @@
+{
+  "id": "1641246",
+  "name": "travel-vue",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "travel项目图标",
+  "glyphs": [
+    {
+      "icon_id": "566360",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "7766764",
+      "name": "icon_left",
+      "font_class": "icon_left",
+      "unicode": "eb99",
+      "unicode_decimal": 60313
+    },
+    {
+      "icon_id": "7766784",
+      "name": "icon_search",
+      "font_class": "icon_search",
+      "unicode": "eb9c",
+      "unicode_decimal": 60316
+    }
+  ]
+}

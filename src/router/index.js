@@ -10,12 +10,11 @@ const routes = [
     path: '/',
     name: 'Home',
     component: Home
+  }, {
+    path: '/city',
+    name: 'City',
+    component: () => import('@/pages/city/City')
   }
-  // , {
-  //   path: '/list',
-  //   name: 'List',
-  //   component: () => import('../pages/list/List')
-  // }
 ]
 
 const router = new VueRouter({

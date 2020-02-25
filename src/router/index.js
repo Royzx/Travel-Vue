@@ -14,6 +14,10 @@ const routes = [
     path: '/city',
     name: 'City',
     component: () => import('@/pages/city/City')
+  }, {
+    path: '/detail/:id',
+    name: 'Detail',
+    component: () => import('@/pages/detail/Detail')
   }
 ]
 
